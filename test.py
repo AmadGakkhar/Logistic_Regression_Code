@@ -10,3 +10,8 @@ print (y)
 
 plt.plot(x1,y)
 plt.show()
+
+for i in range(0,50,2):
+	print(i)
+
+
