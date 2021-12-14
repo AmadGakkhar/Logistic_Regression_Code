@@ -92,8 +92,8 @@ plotData(x1,x2,Y,y_val)
 
 
 print("Parameters are ",parameters)
-print("Cost is ", computeCost(parameters, X,Y))
-
+print("Cost for above paraemters ", computeCost(parameters, X,Y))
+print("Well Done!!")
 
 
 
