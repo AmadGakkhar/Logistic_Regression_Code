@@ -14,4 +14,5 @@ plt.show()
 for i in range(0,50,2):
 	print(i)
 
-
+if i >=40:
+        print("i is greater that or equal to 40")
