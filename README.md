@@ -2,4 +2,5 @@
 Python Implementation of Logistic Regression
 
 
-Classification Dataset is rom Kaggle.
+Tried to do it without using sci-kit learn functions
+Classification Dataset is from Kaggle.
